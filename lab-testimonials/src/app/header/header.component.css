@@ -1,0 +1,20 @@
+.head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 3em;
+}
+
+.logo {
+    padding-left: 13em;
+    padding-top: 0.5em;
+}
+
+.love {
+    padding-right: 13em;
+    padding-top: 0.5em;
+}
+hr{
+    border: 2px solid whitesmoke;
+    border-radius: 50px;
+}

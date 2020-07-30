@@ -1,0 +1,23 @@
+  
+.image {
+    float: right;
+    height: 500px;
+    width: 500px;
+    padding-right: 5%;
+}
+
+.body {
+    padding-top: 2em;
+    padding-left: 13em;
+    padding-right: 13em;
+    height: 20em;
+}
+
+h1 {
+    font-size: 3em;
+    color: orangered;
+}
+
+.hash {
+    color: orangered;
+}
